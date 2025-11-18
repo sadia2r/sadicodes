@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /
 ---
 Hi, I’m Sadia — I build lightweight AI and LegalTech tools with a focus on clarity, function and real-world impact.  
 I'm interested in how automation and thoughtful design can improve the way people interact with legal processes.
