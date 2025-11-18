@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "Home"
 permalink: /
 ---
 Hi, I’m Sadia — I build lightweight AI and LegalTech tools with a focus on clarity, function and real-world impact.  
