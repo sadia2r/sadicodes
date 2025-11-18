@@ -49,5 +49,3 @@ Photography and travel are passions of mine, and this doubles as a showcase of *
 I’m open to opportunities in **LegalTech, AI development and digital innovation**.
 You can explore my [CV](/cv/) and [Projects](/projects/), or reach out directly via  
 [LinkedIn](https://www.linkedin.com/in/sadia2r) or [email](mailto:sadiaaa_r@hotmail.com).
-You can explore my [CV](/cv/) and [Projects](/projects/), or reach out directly via  
-[LinkedIn](https://www.linkedin.com/in/sadia2r) or [email](mailto:sadiaaa_r@hotmail.com).
