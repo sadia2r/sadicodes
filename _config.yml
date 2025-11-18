@@ -18,12 +18,6 @@ title: sadi codes # the main title
 
 tagline: LegalTech × AI Development # it will display as the subtitle
 
-nav:
-  home:
-    title: "About Me"
-    icon: fas fa-user
-    order: 1
-
 description: >- # used by seo meta and the atom feed
   A portfolio of projects at the crossroads of technology, law and human curiosity.
 
@@ -153,7 +147,6 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: false
 
 # The base URL of your site
 baseurl: ""
