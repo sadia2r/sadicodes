@@ -37,13 +37,15 @@ This project grew out of my own study journey — I’ve used AI as a study part
 ---
 
 ### 📸 Travel Photography Gallery  
-A minimalist React/Next.js gallery with filters (nature, street, travel) and lightbox display.  
-Photography and travel are passions of mine, and this doubles as a showcase of **UX/UI and visual design**.  
+A minimalist, custom-built photography gallery featuring masonry layout, category filters and a fully-custom lightbox viewer.
+This project blends my love for photography with practical front-end engineering by focusing on UX, visual clarity and smooth interaction design.
 
-**Tech:** React, Next.js, Lightbox.js  
+Tech:
+HTML, CSS (Masonry Grid, Transitions), Vanilla JavaScript (Dynamic Rendering, Filtering, Lightbox, Keyboard Navigation), JSON Data Handling
 
-<a class="btn btn--primary" href="#" target="_blank">🔗 Live Demo</a>  
-<a class="btn" href="#" target="_blank">💻 GitHub Repo</a>  
+<a class="btn btn--primary" href="https://sadia2r.github.io/travel-photo-gallery/" target="_blank">🔗 Live Demo</a>  
+<a class="btn" href="https://github.com/sadia2r/travel-photo-gallery" target="_blank">💻 GitHub Repo</a>
+
 
 ---
 
