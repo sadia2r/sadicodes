@@ -4,24 +4,28 @@ title: Home
 permalink: /
 ---
 
-Hi, I’m Sadia — I build lightweight AI and LegalTech tools with a focus on clarity, function and real-world impact.  
-I'm interested in how automation and thoughtful design can improve the way people interact with legal processes.
+Hi, I’m Sadia — I build lightweight AI and LegalTech tools with a focus on clarity, function and real-world impact. I'm interested in how automation and thoughtful design can improve the way people interact with legal processes.
 
-The projects on this page highlight some of the smaller tools I’ve built around the things I enjoy: reading, learning and photography. 
-For the more technical LegalTech builds, the Projects section gives a clearer picture of how I think and what I build.
+<br/>
+
+The projects on this page highlight some of the smaller tools I’ve built around the things I enjoy: reading, learning and photography. For the more technical LegalTech builds, the [Projects](/projects/) section gives a clearer picture of how I think.
+
+<br/><br/>
 
 ---
 
 ## Personal Projects
 
-### 📚 AI-Powered Reading & Media Tracker  
-A React/Next.js app to log books and shows, fetching cover data from APIs (Goodreads, OMDb).  
-I built this because I read widely and wanted a tool that combines **organisation with data visualisation**.  
+### 📸 Travel Photography Gallery  
+A minimalist, custom-built photography gallery featuring masonry layout, category filters and a fully-custom lightbox viewer.
+This project blends my love for photography with practical front-end engineering by focusing on UX, visual clarity and smooth interaction design.
 
-**Tech:** React, Next.js, Goodreads API, OMDb API  
+Tech:
+HTML, CSS (Masonry Grid, Transitions), Vanilla JavaScript (Dynamic Rendering, Filtering, Lightbox, Keyboard Navigation), JSON Data Handling
 
-<a class="btn btn--primary" href="#" target="_blank">🔗 View Project</a>  
-<a class="btn" href="#" target="_blank">💻 GitHub Repo</a>  
+<a class="btn btn--primary" href="https://sadia2r.github.io/travel-photo-gallery/" target="_blank">🔗 Check out my gallery right here!</a>  
+<a class="btn" href="https://github.com/sadia2r/travel-photo-gallery" target="_blank">💻 GitHub Repo</a>
+
 
 ---
 
@@ -36,16 +40,14 @@ This project grew out of my own study journey — I’ve used AI as a study part
 
 ---
 
-### 📸 Travel Photography Gallery  
-A minimalist, custom-built photography gallery featuring masonry layout, category filters and a fully-custom lightbox viewer.
-This project blends my love for photography with practical front-end engineering by focusing on UX, visual clarity and smooth interaction design.
+### 📚 AI-Powered Reading & Media Tracker  
+A React/Next.js app to log books and shows, fetching cover data from APIs (Goodreads, OMDb).  
+I built this because I read widely and wanted a tool that combines **organisation with data visualisation**.  
 
-Tech:
-HTML, CSS (Masonry Grid, Transitions), Vanilla JavaScript (Dynamic Rendering, Filtering, Lightbox, Keyboard Navigation), JSON Data Handling
+**Tech:** React, Next.js, Goodreads API, OMDb API  
 
-<a class="btn btn--primary" href="https://sadia2r.github.io/travel-photo-gallery/" target="_blank">🔗 Live Demo</a>  
-<a class="btn" href="https://github.com/sadia2r/travel-photo-gallery" target="_blank">💻 GitHub Repo</a>
-
+<a class="btn btn--primary" href="#" target="_blank">🔗 View Project</a>  
+<a class="btn" href="#" target="_blank">💻 GitHub Repo</a>  
 
 ---
 
