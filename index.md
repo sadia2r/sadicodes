@@ -4,7 +4,17 @@ title: Home
 permalink: /
 ---
 
-Hi, I’m Sadia — I build lightweight AI and LegalTech tools with a focus on clarity, function and real-world impact. I'm interested in how automation and thoughtful design can improve the way people interact with legal processes.
+# Sadia Rahman  
+
+### AI Governance • LegalTech • Applied AI Systems  
+
+I design and analyse AI systems with a focus on governance, transparency and practical deployment. My recent work includes document intelligence tools, retrieval pipelines and structured decision-support systems.
+
+**Focus areas**
+- AI governance and regulatory analysis  
+- Document intelligence and NLP systems  
+- Retrieval and search architectures  
+- Applied ML evaluation and structured outputs  
 
 <br/>
 
@@ -16,7 +26,7 @@ The projects on this page highlight some of the smaller tools I’ve built aroun
 
 ## Personal Projects
 
-### 📸 Travel Photography Gallery  
+### Travel Photography Gallery  
 A minimalist, custom-built photography gallery featuring masonry layout, category filters and a fully-custom lightbox viewer.
 This project blends my love for photography with practical front-end engineering by focusing on UX, visual clarity and smooth interaction design.
 
@@ -29,7 +39,7 @@ HTML, CSS (Masonry Grid, Transitions), Vanilla JavaScript (Dynamic Rendering, Fi
 
 ---
 
-### 🎓 AI Study Buddy  
+### AI Study Buddy  
 An AI-powered learning companion that generates flashcards and quizzes from uploaded notes.  
 This project grew out of my own study journey — I’ve used AI as a study partner since ChatGPT first launched.  
 
@@ -40,7 +50,7 @@ This project grew out of my own study journey — I’ve used AI as a study part
 
 ---
 
-### 📚 AI-Powered Reading & Media Tracker  
+### AI-Powered Reading & Media Tracker  
 A React/Next.js app to log books and shows, fetching cover data from APIs (Goodreads, OMDb).  
 I built this because I read widely and wanted a tool that combines **organisation with data visualisation**.  
 
@@ -53,6 +63,5 @@ I built this because I read widely and wanted a tool that combines **organisatio
 
 ## 📬 Let’s Connect  
 
-I’m open to opportunities in **LegalTech, AI development and digital innovation**.
-You can explore my [CV](/cv/) and [Projects](/projects/), or reach out directly via  
-[LinkedIn](https://www.linkedin.com/in/sadia2r) or [email](mailto:sadiaaa_r@hotmail.com).
+I’m open to opportunities in **LegalTech, AI governance and applied data science**.
+You can explore my [CV](/cv/) and [Projects](/projects/), or reach out directly via [LinkedIn](https://www.linkedin.com/in/sadia2r) or [email](mailto:sadiaaa_r@hotmail.com).
