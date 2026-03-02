@@ -20,8 +20,6 @@ I design and analyse AI systems with a focus on governance, transparency and pra
 
 The projects on this page highlight some of the smaller tools I’ve built around the things I enjoy: reading, learning and photography. For the more technical LegalTech builds, the [Projects](/projects/) section gives a clearer picture of how I think.
 
-<br/><br/>
-
 ---
 
 ## Personal Projects
