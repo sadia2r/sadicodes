@@ -2,6 +2,7 @@
 title: "Justice in Code – AI & Blockchain in UK Asylum Systems"
 permalink: /insights/justice-in-code/
 layout: single
+nav_exclude: true
 ---
 ## Case Study: Justice in Code – AI & Blockchain in UK Asylum Systems  
 
