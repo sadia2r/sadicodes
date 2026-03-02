@@ -1,0 +1,32 @@
+/* =====================================
+   Lavender Theme – Clean & Professional
+   ===================================== */
+
+/* Light mode */
+:root {
+  --link-color: #7c6ee6;           /* muted lavender */
+  --btn-primary-bg: #7c6ee6;
+  --btn-primary-border: #7c6ee6;
+
+  --btn-primary-hover-bg: #6d5dd3;
+  --btn-primary-hover-border: #6d5dd3;
+}
+
+/* Dark mode */
+html[data-mode="dark"] {
+  --link-color: #a78bfa;           /* brighter lavender for contrast */
+  --btn-primary-bg: #8b5cf6;       /* deeper violet */
+  --btn-primary-border: #8b5cf6;
+
+  --btn-primary-hover-bg: #a78bfa;
+  --btn-primary-hover-border: #a78bfa;
+}
+
+/* Button text */
+.btn.btn--primary {
+  color: #ffffff !important;
+}
+
+html[data-mode="dark"] .btn.btn--primary:hover {
+  color: #1e1b4b !important; /* deep indigo text on bright hover */
+}
