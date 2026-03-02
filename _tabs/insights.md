@@ -9,11 +9,13 @@ This section gathers research notes, applied case studies and curated resources 
 
 ---
 
-### 🧠 Justice in Code – AI & Blockchain in UK Asylum Systems  
+### Justice in Code – AI & Blockchain in UK Asylum Systems  
 
 A case study based on my MSc dissertation examining how AI-assisted asylum tools and blockchain identity systems interact with UK human rights and data protection safeguards.
 
-<a class="btn btn--primary" href="/insights/justice-in-code/">Read Case Study</a>
+<a class="btn btn--primary" href="/assets/files/Justice_in_Code_Case_Study.pdf" target="_blank">
+View Case Study (PDF)
+</a>
 
 ---
 
