@@ -15,8 +15,6 @@ I design and analyse AI systems with a focus on governance, transparency and pra
 - Retrieval and search architectures  
 - Applied ML evaluation and structured outputs  
 
-<br/>
-
 The projects on this page highlight some of the smaller tools I’ve built around the things I enjoy: reading, learning and photography. For the more technical LegalTech builds, the [Projects](/projects/) section gives a clearer picture of how I think.
 
 ---
@@ -58,7 +56,7 @@ I built this because I read widely and wanted a tool that combines **organisatio
 
 ---
 
-## 📬 Let’s Connect  
+## Let’s Connect!  
 
 I’m open to opportunities in **LegalTech, AI governance and applied data science**.
 You can explore my [CV](/cv/) and [Projects](/projects/), or reach out directly via [LinkedIn](https://www.linkedin.com/in/sadia2r) or [email](mailto:sadiaaa_r@hotmail.com).
